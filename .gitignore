@@ -1,0 +1,8 @@
+# 本地接口配置（含真实内网地址，不要提交）
+config.local.js
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
